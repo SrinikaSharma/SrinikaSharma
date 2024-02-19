@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @SrinikaSharma.I am a third year student pursuing Computer Science and Engineering (Artificial Intelligence and Machine Learning) @ BVRIT HYDERABAD College of 
+- 👋 Hi, I’m @SrinikaSharma.I am a final year student pursuing Computer Science and Engineering (Artificial Intelligence and Machine Learning) @ BVRIT HYDERABAD College of 
      Engineering for Women. I love to experience new things, meet people and learn more.
-- 🌱 I’m currently learning SalesForce CRM, Front End Web Development, Machine Learning
 - 📫 How to reach me --- Phone : +91 9100969340 
                           Mail : srinika2828@gmail.com 
 
