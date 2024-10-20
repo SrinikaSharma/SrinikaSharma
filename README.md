@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @SrinikaSharma.I am a final year student pursuing Computer Science and Engineering (Artificial Intelligence and Machine Learning) @ BVRIT HYDERABAD College of 
-     Engineering for Women. I love to experience new things, meet people and learn more.
+- 👋 Hi, I’m @SrinikaSharma. I am currently pursuing Masters of Technology in Artificial Intelligence and Data Science in Ecole Centrale School of Engineering, Mahindra University. I am interested in EDA (Data Wranglinga and Visualization), Machine Learning (Linear Regression, KNN, Logistic Regression, Random forest, SVM, Bagging and Boosting, Random Forest, PCA) and Deep Learning (CNNs, RNNs, GANs, Encoder-Decoder, Transformers) 
 - 📫 How to reach me --- Phone : +91 9100969340 
                           Mail : srinika2828@gmail.com 
 
