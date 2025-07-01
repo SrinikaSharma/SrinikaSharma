@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SrinikaSharma. I am currently pursuing Master of Technology in Artificial Intelligence and Data Science in Ecole Centrale School of Engineering, Mahindra University. I am interested in EDA (Data Wranglinga and Visualization), Machine Learning (Linear Regression, KNN, Logistic Regression, Random forest, SVM, Bagging and Boosting, Random Forest, PCA) and Deep Learning (CNNs, RNNs, GANs, Encoder-Decoder, Transformers) 
+- 👋 Hi, I’m @SrinikaSharma. I am currently pursuing Master of Technology in Artificial Intelligence and Data Science in Ecole Centrale School of Engineering, Mahindra University. I am interested in EDA (Data Wranglinga and Visualization), Machine Learning (Linear Regression, KNN, Logistic Regression, Random forest, SVM, Bagging and Boosting, Random Forest, PCA) and Deep Learning (CNNs, RNNs, GANs, Encoder-Decoder, Transformers), NLP, Gen-AI, Agentic AI
 - 📫 How to reach me --- Phone : +91 9100969340 
                           Mail : srinika2828@gmail.com 
 
